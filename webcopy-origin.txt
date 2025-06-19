@@ -2,7 +2,7 @@ Uri: https://art.ngfiles.com/images/6638000/6638111_1946655_oogooboggins_untitle
 File Name: C:\Downloaded Web Sites\www.newgrounds.com\images\6638000\6638111_1946655_oogooboggins_untitled-6638111.bb079f7728db057ed8b4806c60d0e75a.webp
 Content Type: image/webp
 
-Uri: https://art.ngfiles.com/images/6638000/6638111_1946658_oogooboggins_untitled-6638111.a7137acb407f0ff8c7e3c3d5b08ee585.webp?f1745558286
+Uri: ../../../images/6638000/6638111_1946658_oogooboggins_untitled-6638111.a7137acb407f0ff8c7e3c3d5b08ee585.webp?f1745558286
 File Name: C:\Downloaded Web Sites\www.newgrounds.com\images\6638000\6638111_1946658_oogooboggins_untitled-6638111.a7137acb407f0ff8c7e3c3d5b08ee585.webp
 Content Type: image/webp
 
